@@ -2,6 +2,7 @@
 //import styles from './App.scss';
 //import classNames  from 'classnames/bind';
 import Button  from './components/Button';
+import StyleButton from './components/StyleButton';
 //const cx=classNames.bind(styles);
 
 
@@ -10,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <Button>버튼</Button>
+      <StyleButton big>버튼</StyleButton>
     </div>
   );
 }
