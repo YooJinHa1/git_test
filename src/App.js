@@ -6,12 +6,15 @@ import StyleButton from './components/StyleButton';
 //const cx=classNames.bind(styles);
 
 
+/*
+변했네
 
+*/
 function App() {
 
   return (
     <div>
-      <StyleButton big>버튼</StyleButton>
+      <StyleButton big>"ccx"</StyleButton>
     </div>
   );
 }
