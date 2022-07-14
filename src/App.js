@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-      <StyleButton big>"ccx"</StyleButton>
+      <StyleButton big>"ccxfdsfds"</StyleButton>
     </div>
   );
 }
