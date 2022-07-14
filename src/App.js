@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <Button>버튼</Button>
+      <Button>aaaaaaaaaaaaaaaa</Button>
     </div>
   );
 }
