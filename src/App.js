@@ -5,7 +5,7 @@ import Button  from './components/Button';
 //const cx=classNames.bind(styles);
 
 
-/*desktop....*/
+/*.....desktop....*/
 function App() {
 
   return (
